@@ -23,7 +23,7 @@ About Me:
 - 🔭 I’m currently working on analyzing RNA-seq data for our laboratory.
 - 🌱 I’m currently learning how to use R for Bioconductor.
 - 👯 I’m looking to collaborate on nothing for now.
-- 🤔 I’m looking for help with understanding Bioconductor.
+- 🤔 I’m looking for help understanding Bioconductor.
 - 💬 Ask me about my experience with Division 1 broadcasting.
-- 📫 How to reach me: https://www.linkedin.com/in/alex-roberts27/ or https://alexanderrobertsbio.com/.
+- 📫 How to reach me: **https://www.linkedin.com/in/alex-roberts27/** or **https://alexanderrobertsbio.com/**.
 - ⚡ Fun fact: I love swimming. My favorite event is the 200 free.
