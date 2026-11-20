@@ -25,5 +25,5 @@ About Me:
 - 👯 I’m looking to collaborate on nothing for now.
 - 🤔 I’m looking for help with understanding Bioconductor
 - 💬 Ask me about my experience with Division 1 broadcasting.
-- 📫 How to reach me: https://www.linkedin.com/in/alex-roberts27/
+- 📫 How to reach me: https://www.linkedin.com/in/alex-roberts27/ or https://alexanderrobertsbio.com/
 - ⚡ Fun fact: I love swimming. My particular favorite event is the 200 free.
