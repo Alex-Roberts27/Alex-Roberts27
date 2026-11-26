@@ -20,7 +20,7 @@
 -->
 About Me:
 
-- 🔭 I’m currently working on analyzing RNA-seq data for our laboratory.
+- 🔭 I’m currently working on analyzing RNA-seq data for our laboratory for two experiments. The Repositories are public.
 - 🌱 I’m currently learning how to use R for Bioconductor.
 - 👯 I’m looking to collaborate on nothing for now.
 - 🤔 I’m looking for help understanding Bioconductor.
